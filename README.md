@@ -1,0 +1,2 @@
+# MLOps_ArgillaXActiveLearning
+Source: https://docs.argilla.io/en/latest/tutorials_and_integrations/tutorials/other_datasets/few_shot_text_classification_with_active_learning.html
